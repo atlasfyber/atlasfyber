@@ -14,4 +14,4 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrofyber&theme=dracula">
 
 > ❤️ Thanks for checking out my profile! <br>
-> ✍️ I don't share my source codes on GitHub, but I appreciate your interest.
+> ✍️ I don't share my source codes on GitHub very often, but I appreciate your interest.
