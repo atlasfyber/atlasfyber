@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Javascript and making APIs
 - 🔭 I’m currently working on different Discord bots: <br>
    <br>➜ **ZERO Discord Bot** *(verified by discord)* <br>
-   ➜ **AstroOracle** *(open public beta)* <br>
+   ➜ **[Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot)** *(open public beta)* <br>
    ➜ **SkylarBot** *(private bot)* <br> 
    *and many more..* <br>
 
