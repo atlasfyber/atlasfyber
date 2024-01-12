@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on different Discord bots: <br>
    <br>➜ **ZERO Discord Bot** *(verified by discord)* <br>
    ➜ **[Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot)** *(open public beta)* <br>
-   ➜ **SkylarBot** *(private bot)* <br> 
+   ➜ **SkylarBot & SkyMod API** *(private bot)* <br> 
    *and many more..* <br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrofyber&theme=dracula"> <br>
