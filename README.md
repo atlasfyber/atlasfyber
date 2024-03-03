@@ -4,7 +4,7 @@ Astronomy enthusiast lost among the stars, currently on a journey to master Java
 
 ## 🌱 About Me
 - 👨‍💻 I'm learning Javascript and building cool stuff with APIs.
-- 🤖 Creating Discord bots like ZERO Discord Bot, Horizon Astronomy Bot, SkylarBot & SkyMod API, and more.
+- 🤖 Creating Discord bots like ZERO Multipurpose Bot, Horizon Astronomy Bot, SkylarBot & SkyMod API, and more.
 - 📡 Feel free to [invite Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot) to your server!
 
 ## 🚀 My Universe
