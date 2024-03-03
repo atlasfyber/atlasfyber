@@ -18,5 +18,5 @@ Astronomy enthusiast lost among the stars, currently on a journey to master Java
 - 🌐 [Portfolio](#) (coming soon)
 - 📧 Email: fyber@teamatlas.dev
 
-## ❤️ Thanks for Stargazing!
+## ❤️ Thank you for visiting my profile!
 I don't share my source codes on GitHub very often, but I appreciate your interest.
