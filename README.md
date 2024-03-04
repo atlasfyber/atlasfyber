@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Fyber!&center=true&width=380&height=45">
   <br />
   <a href="https://github.com/astrofyber"> 
-    <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/DevSpen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" />
+    <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/astrofyber?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" />
   </a>
 </div>
 <br />
