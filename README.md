@@ -1,20 +1,32 @@
-# Hi there 👋, I'm Fyber 🚀
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Fyber!&center=true&width=380&height=45">
+  <br />
+  <a href="https://github.com/astrofyber"> 
+    <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/DevSpen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" />
+  </a>
+</div>
+<br />
 
-Astronomy enthusiast lost among the stars, currently on a journey to master Javascript and explore the wonders of working with APIs.
+<center>Astronomy enthusiast lost among the stars, currently on a journey to master Javascript and explore the wonders of working with APIs.</center>
 
 ## 🌱 About Me
 - 👨‍💻 I'm learning Javascript and building cool stuff with APIs.
 - 🤖 Creating Discord bots like ZERO Multipurpose Bot, Horizon Astronomy Bot, SkylarBot & SkyMod API, and more.
-- 📡 Feel free to [invite Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot) to your server!
+- 📡 Feel free to [invite Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot) to your server! <br> <br>
 
-## 🚀 My Universe
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrofyber&theme=dracula)
+## 📋 Statistics
+<details>
+<summary> <b>🚀 My Universe</b></summary>
+    <img alt="Fyber's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrofyber&theme=dracula" />
+</details>
 
-## 📊 GitHub Stats
-  ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrofyber&theme=dracula)
-  ![Most Committed Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrofyber&theme=dracula)
+<details>
+<summary> <b>📊 GitHub Stats</b></summary>
+  <img alt="Repos per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrofyber&theme=dracula" />
+<img alt="Most Committed Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrofyber&theme=dracula" />
+</details>
 
-## 👾 Let's Connect
+## 🤝 Let's Connect
 - 🌐 [Portfolio](#) (coming soon)
 - 📧 Email: fyber@teamatlas.dev
 
