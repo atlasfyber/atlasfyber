@@ -14,6 +14,7 @@
 - 🙌 Proud Team Member & Head Developer of [@AtlasDevGroup](https://github.com/AtlasDevGroup)
 - 🤖 Creating Discord bots like ZERO Multipurpose Bot, Horizon Astronomy Bot, SkylarBot & SkyMod API, and more.
 - 📡 Feel free to [invite Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot) to your server! 
+<br><br> <img src="https://status.teamatlas.dev/api/badge/1/status?style=for-the-badge">
 
 ## 📋 Statistics
 <details>
