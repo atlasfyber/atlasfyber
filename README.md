@@ -11,6 +11,7 @@
 
 ## 🌱 About Me
 - 👨‍💻 I'm learning Javascript and building cool stuff with APIs.
+- ✔️ Verified Discord Bot Developer of ZERO & Horizon.
 - 🙌 Proud Team Member & Head Developer of [@AtlasDevGroup](https://github.com/AtlasDevGroup)
 - 🤖 Creating Discord bots like ZERO Multipurpose Bot, Horizon Astronomy Bot, Horizon API, SkylarBot & SkyMod API, and more.
 - 📡 Feel free to [invite Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot) to your server! 
