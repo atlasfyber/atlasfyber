@@ -29,7 +29,7 @@
 <img alt="Most Committed Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrofyber&theme=dracula" />
 </details>
 
-## 🤝 Let's Connect
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> Let's Connect
 - 🌐 [Portfolio](#) (coming soon)
 - 📧 Email: fyber@teamatlas.dev
 
