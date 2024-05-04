@@ -20,13 +20,13 @@
 ## 📋 Statistics
 <details>
 <summary> <b>🚀 My Universe</b></summary>
-    <img alt="Fyber's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrofyber&theme=dracula" />
+    <img alt="Fyber's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atlasfyber&theme=dracula" />
 </details>
 
 <details>
 <summary> <b>📊 GitHub Stats</b></summary>
-  <img alt="Repos per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrofyber&theme=dracula" />
-<img alt="Most Committed Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrofyber&theme=dracula" />
+  <img alt="Repos per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atlasfyber&theme=dracula" />
+<img alt="Most Committed Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atlasfyber&theme=dracula" />
 </details>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> Let's Connect
