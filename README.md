@@ -11,6 +11,7 @@
 
 ## 🌱 About Me
 - 👨‍💻 I'm learning Javascript and building cool stuff with APIs.
+- 🌐 Contributing by translating content into Greek for various open source projects. Email me to start!
 - ✔️ Verified Discord Bot Developer of ZERO & Horizon.
 - 🙌 Proud Team Member & Head Developer of [@AtlasDevGroup](https://github.com/AtlasDevGroup)
 - 🤖 Creating Discord bots like ZERO Multipurpose Bot, Horizon Astronomy Bot, Horizon API, SkylarBot & SkyMod API, and more.
