@@ -34,4 +34,4 @@
 - 🌐 [Portfolio](#) (coming soon)
 - 📧 Email: fyber@teamatlas.dev
 
-## ❤️ Thank you for visiting my profile!
+#### ❤️ Thank you for visiting my profile!
