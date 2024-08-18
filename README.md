@@ -14,9 +14,9 @@
 - 🌐 Contributing by translating content into Greek for various open source projects. Email me to start!
 - ✔️ Verified Discord Bot Developer of ZERO & Horizon.
 - 🙌 Proud Team Member & Head Developer of [@AtlasDevGroup](https://github.com/AtlasDevGroup)
-- 🤖 Creating Discord bots like ZERO Multipurpose Bot, Horizon Astronomy Bot, Horizon API, SkylarBot & SkyMod API, and more.
-- 📡 Feel free to [invite Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot) to your server! 
-<br><br> <img src="https://status.teamatlas.dev/api/badge/1/status?style=for-the-badge">
+- 🤖 Developing Horizon, Horizon Automations API, and contributing to random open source projects.
+- 📡 Astronomer? Feel free to [invite Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot) to your server! Learn more [here!](https://horizonbot.xyz)
+
 
 ## 📋 Statistics
 <details>
@@ -35,4 +35,3 @@
 - 📧 Email: fyber@teamatlas.dev
 
 ## ❤️ Thank you for visiting my profile!
-I don't share my source codes on GitHub very often, but I appreciate your interest.
