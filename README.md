@@ -13,7 +13,7 @@
 - 👨‍💻 I'm learning Javascript and building cool stuff with APIs.
 - 🌐 Contributing by translating content into Greek for various open source projects. Email me to start!
 - ✔️ Verified Discord Bot Developer of ZERO & Horizon.
-- 🙌 Proud Team Member & Head Developer of [@AtlasDevGroup](https://github.com/AtlasDevGroup)
+- 🙌 Proud Team Member & Head Developer of [@TeamAtlasDev](https://github.com/TeamAtlasDev)
 - 🤖 Developing Horizon, Horizon Automations API, and contributing to random open source projects.
 - 📡 Astronomer? Feel free to [invite Horizon Astronomy Bot](https://discord.com/api/oauth2/authorize?client_id=1183177251316047983&permissions=18135499799616&scope=bot) to your server! Learn more [here!](https://horizonbot.xyz)
 
