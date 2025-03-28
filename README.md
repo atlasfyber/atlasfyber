@@ -31,7 +31,8 @@
 </details>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> Let's Connect
-- 🌐 [Portfolio](#) (coming soon)
+- 🌐 [Atlas Community Server](http://support.horizonbot.xyz/)
 - 📧 Email: fyber@teamatlas.dev
+
 
 #### ❤️ Thank you for visiting my profile!
